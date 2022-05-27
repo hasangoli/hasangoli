@@ -1,24 +1,27 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" width="300"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:mrhasangoli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/disrespectist">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Youtube Badge"/>
-  </a>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:mrhasangoli@gmail.com)
+  [![Medium](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/disrespectist)
+  
 </div>
 
 <h1>
-  Hi there
+  Hi There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Iran.
 
+<br />
+
 ### :technologist: About Me :
+
+<br />
 
 - :telescope: I’m working as a Front-end developer and contributing to frontend for building websites and web applications.
 
@@ -27,6 +30,8 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<br />
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30px" width="30px" />
@@ -55,8 +60,11 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasangoli&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasangoli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-<p align="left" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasangoli" alt="hasangoli" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasangoli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasangoli&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p width="100%"><img src="https://github-profile-trophy.vercel.app/?username=hasangoli&theme=onestar&row=1&margin-w=8&no-bg=true" alt="hasangoli" /></p>
