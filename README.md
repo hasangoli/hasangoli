@@ -17,11 +17,7 @@
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Iran.
 
-<br />
-
 ### :technologist: About Me :
-
-<br />
 
 - :telescope: I’m working as a Front-end developer and contributing to frontend for building websites and web applications.
 
