@@ -1,6 +1,5 @@
 <div align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" width="30px"/>
+  <img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" width="200px"/>
 </div>
 
 <div align="center">
