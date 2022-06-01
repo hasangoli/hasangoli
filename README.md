@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" width="200px"/>
+  <img src="https://www.codingwithslinky.com/GIFs/codingDino.gif" width="300"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <h1>
   Hi There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
 I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Iran.
@@ -62,4 +62,4 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasangoli&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p width="100%"><img src="https://github-profile-trophy.vercel.app/?username=hasangoli&theme=onestar&row=1&margin-w=8&no-bg=true" alt="hasangoli" /></p>
+<!-- <p width="100%"><img src="https://github-profile-trophy.vercel.app/?username=hasangoli&theme=onestar&row=1&margin-w=8&no-bg=true" alt="hasangoli" /></p> -->
