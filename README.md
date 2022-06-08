@@ -45,7 +45,6 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30px" width="30px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30px" width="30px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height="30px" width="30px" />
