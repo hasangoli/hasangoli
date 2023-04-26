@@ -53,14 +53,3 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30px" width="30px" />
   -->
 </div>
-
----
-### :fire: My Stats :
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasangoli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasangoli&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-<!-- <p width="100%"><img src="https://github-profile-trophy.vercel.app/?username=hasangoli&theme=onestar&row=1&margin-w=8&no-bg=true" alt="hasangoli" /></p> -->
