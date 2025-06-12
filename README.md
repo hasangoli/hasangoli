@@ -18,7 +18,7 @@
 
 <div align="left">
   
-  [![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:hasangolidev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:mrhasangoli@gmail.com)
   [![Medium](https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white)](https://t.me/mrhasangoli)
   
 </div>
